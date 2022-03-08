@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sk1mm1lk
 - 👀 I’m interested in C and Python
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java

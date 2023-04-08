@@ -5,5 +5,3 @@
 - I study Networks, Security and Data Science
 - I know basic C, Java, and Python with a little bit of R
 - I plan to display my projects here
-
-### There are currently no projects to display
